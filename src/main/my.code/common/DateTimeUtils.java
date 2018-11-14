@@ -20,6 +20,8 @@ public class DateTimeUtils {
 	public static String getDateTime() {
 		return getDateTime(new Date());
 	}
+
+
 	
 	/**
 	 * 标准格式化日期时间
